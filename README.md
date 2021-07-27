@@ -1,6 +1,7 @@
 # SwitchSwitch
 
-A new Flutter project.
+My first time with an app in Flutter.
+An App that prints numbers and text as you click
 
 ### < Author/ >
 
